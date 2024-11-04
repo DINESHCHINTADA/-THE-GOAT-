@@ -76,7 +76,7 @@
             </div>
             <div class="records">
                 <h5 class="text"><i>Currently one of the best players in the world - Virat Kohli</i></h5>
-                <h3 style="color:red"><b>A Small Introduction to His Records</b></h3>
+                <h2 style="color:red"><b>A Small Introduction to His Records</b></h2>
                 <ul>
                     <li>First Indian to score a century in World Cup debut</li>
                     <li>Fastest Indian to score 1000, 3000, 4000, and 5000 runs</li>
@@ -99,7 +99,7 @@
             Kohli faced an awful choice – whether to cremate his father or to go and finish his innings for Delhi. The news of Prem Kohli’s demise had already traveled throughout the Delhi dressing room. Chetanya Nanda was informed that Kohli wouldn’t come to bat and he was asked to pad up. But, his teammates, opposition, and even the match officials were shocked to see Virat Kohli arriving in the dressing room in full cricketing gear. He chose to go in and bat.
             He played for 281 minutes and faced 238 balls. When he was declared out after scoring a match-saving 90, just before lunch though the bat had brushed the pad as replays showed, his team was clearly out of trouble, with only 36 runs needed to avoid the follow-on.
         </p>
-        <h4 class="author">Written and coded by <span style="color:blue">DINESH CHINTADA</span></h4>
+        <h4 class="author">Written and coded by~ <span style="color:blue"> DINESH CHINTADA</span></h4>
     </div>
 </body>
 </html>

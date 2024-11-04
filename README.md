@@ -65,9 +65,10 @@
     </style>
 </head>
 <body>
+ <div>
     <h1><b> VIRAT KOHLI </b></h1>
     <h2><i>-the untamed warrior</i></h2>
-
+ </div>
     <div class="caption">
         <div class="grid">
             <div class="image">

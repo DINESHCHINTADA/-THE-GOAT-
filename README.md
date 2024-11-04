@@ -71,7 +71,7 @@
     <div class="caption">
         <div class="grid">
             <div class="image">
-                <img src="c:\Users\CH DINESH\Downloads\13 Years Of Virat Kohli! 🤩💙🤍.jpg" alt="Virat Kohli">
+                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FMOMENT-PRINTS-Virat-Kohli-Poster%2Fdp%2FB0CLGKJLWB&psig=AOvVaw0GiXZQlD20FKRLpuYsCvl_&ust=1730831176988000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCXiuumw4kDFQAAAAAdAAAAABAE" alt="Virat Kohli">
             </div>
             <div class="records">
                 <h5 class="text"><i>Currently one of the best players in the world - Virat Kohli</i></h5>

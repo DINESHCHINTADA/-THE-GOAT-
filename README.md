@@ -25,7 +25,7 @@
         }
 
         .records {
-            font-size: 1.5rem;
+            font-size: 1rem;
         }
 
         .image img {
@@ -71,7 +71,7 @@
     <div class="caption">
         <div class="grid">
             <div class="image">
-                <img src="https://pin.it/50fUooQrP
+                <img src="https://i.pinimg.com/736x/71/88/9c/71889c33f1981cc174a389170cb979d3.jpg
 " alt="Virat Kohli">
             </div>
             <div class="records">
